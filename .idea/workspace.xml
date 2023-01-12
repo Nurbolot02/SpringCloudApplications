@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88588c43-86b3-49c3-abb9-dbe2c0a7c325" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/src/main/java/com/ntg/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/src/test/java/com/ntg/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/src/main/java/com/ntg/photoappeurekaserver/PhotoAppEurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoAppEurekaServer/src/test/java/com/ntg/photoappeurekaserver/PhotoAppEurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/src/main/java/com/ntg/accountservice/AccountServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/src/main/java/com/ntg/accountservice/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/src/test/java/com/ntg/accountservice/AccountServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/ntg/userservice/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/com/ntg/userservice/controller/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/test/java/com/ntg/userservice/UserServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ApiGateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/account-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/user-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KDYK7W4iFAqaPTqysdrjBnD9Xf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountServiceApplication">
+    <configuration name="AccountServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="account-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ntg.accountservice.AccountServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ApiGateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ntg.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoAppEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringCloudPhotoApp.PhotoAppEurekaServer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ntg.photoappeurekaserver.PhotoAppEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ntg.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88588c43-86b3-49c3-abb9-dbe2c0a7c325" name="Changes" comment="" />
+      <created>1673510553344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673510553344</updated>
+      <workItem from="1673510554276" duration="7379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user-service/src/main/java/com/ntg/userservice/controller/UserService.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
